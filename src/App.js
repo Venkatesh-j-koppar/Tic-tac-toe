@@ -5,7 +5,7 @@ import Icon from './Components/Icon';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import {Card,CardBody,Container,Button,Col,Row } from "reactstrap"
-import { FaCentercode, FaWatchmanMonitoring } from 'react-icons/fa';
+
 
 const itemArray=new Array(9).fill("empty");
 
